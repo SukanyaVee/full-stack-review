@@ -1,3 +1,6 @@
+Project planning:
+=======================
+
 Packages required to yarn: 
 -----------------------------------
 axios 

@@ -1,11 +1,12 @@
 //PART 1: Initial State
 
 const initialState = {
-    user: {
-        name: 'Midas',
-        email: 'golden@touch',
-        pic: "\\m/"
-    }
+    user: null
+    // user: {
+    //     name: 'Midas',
+    //     email: 'golden@touch',
+    //     pic: "\\m/"
+    // }
 };
 
 //Part 2: Action type
